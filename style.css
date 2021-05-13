@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(-45deg, #0614dd,  	#0873a5);
+    background: linear-gradient(-45deg, #cc7d08,  	#eca766);
     margin: 0;
     padding: 0;
   }
@@ -9,8 +9,8 @@ body {
     font-size: 3em;
     padding-top: 100px;
     width: 100%;
-    font-family:Georgia;
-    text-align:left;
+    font-family:Helvetica;
+    text-align:Center;
   }
   
   h2 {
@@ -23,7 +23,7 @@ body {
     padding-bottom: 30px;
     padding-top: 30px;
     text-align: center;
-    font-family:Georgia;
+    font-family:Helvetica;
   }
   
   p {
@@ -32,7 +32,7 @@ body {
     font-size:18px;
     width: 100%;
     font-family:Helvetica;
-    text-align:center;
+    text-align:Left;
   
   }
   li {
@@ -40,7 +40,7 @@ body {
     line-height: 1.3em;
     font-size:18px;
     width: 100%;
-    text-align:center;
+    text-align:left;
   
   }
   
