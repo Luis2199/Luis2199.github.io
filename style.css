@@ -16,7 +16,7 @@ body {
   h2 {
     border-bottom: 1px solid rgba(228, 6, 6, 0.5);
     border-top: 1px solid rgba(228, 6, 6, 0.5);
-    color: rgba(252, 80, 0, 0.5);
+    color: rgba(56, 19, 2, 0.5);
     font-weight: 100;
     font-size: 22px;
     line-height: 24px;
@@ -72,6 +72,14 @@ body {
     position: left;
     max-width:10%;
     height:auto;
+  }
+
+  #lista-ctr {
+    color: black;
+    line-height: 1.7em;
+    font-size:20px;
+    width: 100%;
+    position:center;
   }
   
   #yo{
