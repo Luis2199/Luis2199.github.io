@@ -1,21 +1,16 @@
 body {
-    /* Old browsers */
-    background: #141E30;
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    background: linear-gradient(-45deg, #73ab38,  	#408c4c);
+    background: linear-gradient(-45deg, #0614dd,  	#0873a5);
     margin: 0;
     padding: 0;
   }
   
   h1 {
-    color: #FFF;
-    font-size: 2em;
+    color: rgb(0, 0, 0);
+    font-size: 3em;
     padding-top: 100px;
     width: 100%;
     font-family:Georgia;
-    text-align:center;
+    text-align:left;
   }
   
   h2 {
