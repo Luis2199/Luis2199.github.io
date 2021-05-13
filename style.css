@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(-45deg, #cc7d08,  	#eca766);
+    background: linear-gradient(-45deg, #cc7d08,  	#f8b576);
     margin: 0;
     padding: 0;
   }
@@ -16,7 +16,7 @@ body {
   h2 {
     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
     border-top: 1px solid rgba(255, 255, 255, 0.5);
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(252, 80, 0, 0.5);
     font-weight: 100;
     font-size: 22px;
     line-height: 24px;
@@ -42,6 +42,10 @@ body {
     width: 100%;
     text-align:left;
   
+  }
+
+  div {
+      color:blue;
   }
   
   .caption {
